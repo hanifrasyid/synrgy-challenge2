@@ -1,0 +1,60 @@
+
+w
+java:S1192X"ZDefine a constant instead of duplicating this literal "=========================" 3 times.(Ğ—Íè8’³‹†®1
+O
+java:S1199i"-Extract this nested code block into a method.(»Úã§ùÿÿÿÿ8•³‹†®1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿÖÍñùÿÿÿÿ
+“
+java:S2681i"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(»Úã§ùÿÿÿÿ8–³‹†®1
+L	java:S106"+Replace this use of System.out by a logger.(Åá—•şÿÿÿÿ8·³‹†®1
+G	java:S106"+Replace this use of System.out by a logger.(¥À”á8¸³‹†®1
+G	java:S106"+Replace this use of System.out by a logger.(Î¼²8¹³‹†®1
+L	java:S106"+Replace this use of System.out by a logger.(Ôóè‰øÿÿÿÿ8º³‹†®1
+L	java:S106"+Replace this use of System.out by a logger.(•Ù»Óûÿÿÿÿ8»³‹†®1
+G	java:S106"+Replace this use of System.out by a logger.(À¹œæ8¼³‹†®1
+L	java:S106"+Replace this use of System.out by a logger.(Ø²»Èúÿÿÿÿ8½³‹†®1
+L	java:S106#"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¾³‹†®1
+G	java:S106)"+Replace this use of System.out by a logger.(Ø¸…´8¾³‹†®1
+G	java:S106/"+Replace this use of System.out by a logger.(ä¹¿“8À³‹†®1
+G	java:S1060"+Replace this use of System.out by a logger.(ëĞ³8À³‹†®1
+L	java:S1061"+Replace this use of System.out by a logger.(¼ş·óúÿÿÿÿ8À³‹†®1
+F	java:S1062"+Replace this use of System.out by a logger.(¶ÈZ8Á³‹†®1
+L	java:S1063"+Replace this use of System.out by a logger.(“ıú‡şÿÿÿÿ8Å³‹†®1
+L	java:S1064"+Replace this use of System.out by a logger.(½Ó…”úÿÿÿÿ8Æ³‹†®1
+G	java:S106:"+Replace this use of System.out by a logger.(™²“õ8Ç³‹†®1
+L	java:S106;"+Replace this use of System.out by a logger.(ŞŠ¾ûÿÿÿÿ8Ç³‹†®1
+L	java:S106<"+Replace this use of System.out by a logger.(ƒ÷èñøÿÿÿÿ8È³‹†®1
+G	java:S106>"+Replace this use of System.out by a logger.(¡Ë˜ˆ8È³‹†®1
+G	java:S106?"+Replace this use of System.out by a logger.(’…ëÒ8È³‹†®1
+L	java:S106@"+Replace this use of System.out by a logger.(Ø²»Èúÿÿÿÿ8È³‹†®1
+L	java:S106A"+Replace this use of System.out by a logger.(­–´½øÿÿÿÿ8É³‹†®1
+G	java:S106F"+Replace this use of System.out by a logger.(‰ºĞŒ8Ë³‹†®1
+G	java:S106L"+Replace this use of System.out by a logger.(¶ÛÏå8Ì³‹†®1
+G	java:S106Q"+Replace this use of System.out by a logger.(òÔÇÍ8Î³‹†®1
+L	java:S106R"+Replace this use of System.out by a logger.(¾õ¹´şÿÿÿÿ8Î³‹†®1
+G	java:S106S"+Replace this use of System.out by a logger.(òÔÇÍ8Î³‹†®1
+G	java:S106X"+Replace this use of System.out by a logger.(Ğ—Íè8Ï³‹†®1
+L	java:S106Y"+Replace this use of System.out by a logger.(ˆ„“úÿÿÿÿ8Ï³‹†®1
+G	java:S106Z"+Replace this use of System.out by a logger.(ãÕ†ò8Ï³‹†®1
+L	java:S106["+Replace this use of System.out by a logger.(œôéÀûÿÿÿÿ8Ï³‹†®1
+L	java:S106\"+Replace this use of System.out by a logger.(¢”ÁÀùÿÿÿÿ8Ï³‹†®1
+L	java:S106]"+Replace this use of System.out by a logger.(ÓĞë¥ıÿÿÿÿ8Ğ³‹†®1
+G	java:S106^"+Replace this use of System.out by a logger.(Ğ—Íè8Ğ³‹†®1
+L	java:S106_"+Replace this use of System.out by a logger.(ñØ¨•şÿÿÿÿ8Ğ³‹†®1
+L	java:S106`"+Replace this use of System.out by a logger.(Ç¸Ùÿıÿÿÿÿ8Ğ³‹†®1
+G	java:S106a"+Replace this use of System.out by a logger.(Ğ—Íè8Ğ³‹†®1
+V
+java:S1854o"9Remove this useless assignment to local variable "index".(Í¶ªì8Ñ³‹†®1
+G	java:S106x"+Replace this use of System.out by a logger.(˜¥à§8Û³‹†®1
+G	java:S106z"+Replace this use of System.out by a logger.(¬õ»ğ8Û³‹†®1
+L	java:S106|"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8Ü³‹†®1
+d
+java:S3457‡"AFormat specifiers should be used instead of string concatenation.(Ü’¥Èşÿÿÿÿ8Ş³‹†®1
+M	java:S106‡"+Replace this use of System.out by a logger.(Ü’¥Èşÿÿÿÿ8Ş³‹†®1
+M	java:S106Š"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ß³‹†®1
+_
+java:S3457—"AFormat specifiers should be used instead of string concatenation.(ÿæ­ä8à³‹†®1
+H	java:S106—"+Replace this use of System.out by a logger.(ÿæ­ä8à³‹†®1
+_
+java:S3457›"AFormat specifiers should be used instead of string concatenation.(Õ…«œ8à³‹†®1
+H	java:S106›"+Replace this use of System.out by a logger.(Õ…«œ8à³‹†®1
